@@ -11,5 +11,6 @@
    <a href="SimpleCalculator/index.php">Simple Calculator</a></br>
    <a href="PrimeNumbers/index.php">Prime Numbers</a></br>
    <a href="Factorial/index.php">Factorial</a></br>
+   <a href="Palindrome/index.php">Palindrome</a></br>
 </body>
 </html>
