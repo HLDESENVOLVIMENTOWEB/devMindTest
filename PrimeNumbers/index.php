@@ -1,3 +1,8 @@
+<?php
+require_once "class/prime.php";
+$prime = new Prime();
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,9 +27,9 @@
     </form>
 
     <div>
-    <ol>
-        <li></li>
-    </ol>
+        <?php $prime->setFirstPrimeNumers(10); ?>
+        <h3>First <?php echo $prime->getfirstPrimeNumers() ?> prime numbers</h3>
+        <?php $prime->firstPrimeNumers(); ?>
     </div>
 
    
