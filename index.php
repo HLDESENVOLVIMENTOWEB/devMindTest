@@ -15,5 +15,6 @@
    <a href="Table/index.php">Table</a></br>
    <a href="VowelCounter/index.php">Vowel Counter</a></br>
    <a href="GradeAverage/index.php">Grade Average</a></br>
+   <a href="InterestCalculation/index.php">Interest Calculation</a></br>
 </body>
 </html>
