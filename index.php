@@ -12,5 +12,6 @@
    <a href="PrimeNumbers/index.php">Prime Numbers</a></br>
    <a href="Factorial/index.php">Factorial</a></br>
    <a href="Palindrome/index.php">Palindrome</a></br>
+   <a href="Table/index.php">Table</a></br>
 </body>
 </html>
