@@ -13,5 +13,6 @@
    <a href="Factorial/index.php">Factorial</a></br>
    <a href="Palindrome/index.php">Palindrome</a></br>
    <a href="Table/index.php">Table</a></br>
+   <a href="VowelCounter/index.php">Vowel Counter</a></br>
 </body>
 </html>
