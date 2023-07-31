@@ -10,5 +10,6 @@
    <h1>DevMindTest</h1>
    <a href="SimpleCalculator/index.php">Simple Calculator</a></br>
    <a href="PrimeNumbers/index.php">Prime Numbers</a></br>
+   <a href="Factorial/index.php">Factorial</a></br>
 </body>
 </html>
