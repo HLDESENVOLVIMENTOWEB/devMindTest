@@ -14,5 +14,6 @@
    <a href="Palindrome/index.php">Palindrome</a></br>
    <a href="Table/index.php">Table</a></br>
    <a href="VowelCounter/index.php">Vowel Counter</a></br>
+   <a href="GradeAverage/index.php">Grade Average</a></br>
 </body>
 </html>
